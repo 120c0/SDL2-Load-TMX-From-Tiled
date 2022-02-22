@@ -16,22 +16,17 @@ make && ./App
 <img src="data/screenshots/4.png">
 <img src="data/screenshots/5.png">
 
-# Tileset credit
+# Tileset credits
 <a href="https://northgames.itch.io/dirtbrick/download/eyJleHBpcmVzIjoxNjQ1NTQ3NjYzLCJpZCI6MzgzOTY0fQ%3d%3d.MqUZNYKvTape0hsQSpgUEA11l7o%3d">itch.io download</a>
 
 <footer>
-"
-Hi,
-
-This is a simple 2D Platformer tileset with inclines, some assets, grass and brick textures.
-
+" Hi, This is a simple 2D Platformer tileset with inclines, some assets, grass and brick textures.
 You can use this tileset for whatever you like (CC-0).
-
 Credit is not necessary but if you use it in a project and would like to share, I would be stoked to see, leave a link in the comment section.
 
 twitter.com/joshrivera
 
-Instagram.com/northgamestudio
-"
+Instagram.com/northgamestudio "
+</br>
 -Josh
 </footer>
